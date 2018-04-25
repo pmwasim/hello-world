@@ -1,0 +1,6 @@
+#include <iostreame.h>
+
+void main()
+{
+  cout<<"hello world";
+  }
